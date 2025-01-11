@@ -1,0 +1,10 @@
+theme: minima
+
+header_pages:
+  - はじめに.md
+  - finally.md
+
+footer_text: "Copyright © 2023 a03/ymgcmnk. All rights reserved."
+
+url: "https://ke3taro2037.github.io/mbfsrv_guide"
+description: "【新規さん必見】Made By Freeサーバー 公式ガイドブック"
