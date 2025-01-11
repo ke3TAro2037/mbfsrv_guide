@@ -4,6 +4,11 @@ header_pages:
   - はじめに.md
   - finally.md
 
+markdown: Kramdown
+kramdown:
+  input: GFM
+
+
 footer_text: "Copyright © 2023 a03/ymgcmnk. All rights reserved."
 
 url: "https://ke3taro2037.github.io/mbfsrv_guide"
